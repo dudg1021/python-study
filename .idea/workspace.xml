@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b52d900-aaa7-40c3-b990-3a0b31b3f22a" name="Default Changelist" comment="" />
+    <list default="true" id="2b52d900-aaa7-40c3-b990-3a0b31b3f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/Selenium/pyautogui_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/Selenium/pynput_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basis/str-demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basis/str-demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/Selenium/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/example/Selenium/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/Selenium/move_slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/Selenium/move_slider.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,13 +34,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/Selenium" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ideawork\python-study\example\Selenium" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\ideawork\python-study\example\Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.move_slider (1)">
+  <component name="RunManager" selected="Python.str-demo">
     <configuration name="move_slider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="move_slider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pyautogui_demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:\ideawork\python-study\example\Selenium\move_slider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/Selenium/pyautogui_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="send_mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pyautogui_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +102,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/send_mail.py" />
+      <option name="SCRIPT_NAME" value="H:\ideawork\python-study\example\Selenium\pyautogui_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pynput_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/Selenium/pynput_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,10 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.move_slider (1)" />
-        <item itemvalue="Python.send_mail" />
-        <item itemvalue="Python.move_slider" />
         <item itemvalue="Python.str-demo" />
+        <item itemvalue="Python.pynput_demo" />
+        <item itemvalue="Python.pyautogui_demo (1)" />
+        <item itemvalue="Python.pyautogui_demo" />
+        <item itemvalue="Python.move_slider (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +189,7 @@
       <updated>1598431538754</updated>
       <workItem from="1598431545123" duration="3842000" />
       <workItem from="1598951179855" duration="594000" />
-      <workItem from="1599027507546" duration="6531000" />
+      <workItem from="1599027507546" duration="32067000" />
     </task>
     <servers />
   </component>
@@ -167,47 +201,74 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="635" y="391" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598500215118" />
-    <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1599043473041">
+    <state x="70" y="316" key="#xdebugger.evaluate" timestamp="1599461362148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599043473041" />
-    <state width="1877" height="180" key="GridCell.Tab.0.center" timestamp="1599043473041">
+    <state x="70" y="316" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1599461362148" />
+    <state width="534" height="438" key="DebuggerActiveHint" timestamp="1599464711479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599043473041" />
-    <state width="1877" height="180" key="GridCell.Tab.0.left" timestamp="1599043473041">
+    <state width="534" height="438" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1599464711479" />
+    <state width="1294" height="183" key="GridCell.Tab.0.bottom" timestamp="1599624351421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599043473041" />
-    <state width="1877" height="180" key="GridCell.Tab.0.right" timestamp="1599043473041">
+    <state width="1294" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351421" />
+    <state width="1294" height="183" key="GridCell.Tab.0.center" timestamp="1599624351420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599043473041" />
-    <state width="1877" height="180" key="GridCell.Tab.1.bottom" timestamp="1599043465328">
+    <state width="1294" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
+    <state width="1294" height="183" key="GridCell.Tab.0.left" timestamp="1599624351420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599043465328" />
-    <state width="1877" height="180" key="GridCell.Tab.1.center" timestamp="1599043465328">
+    <state width="1294" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
+    <state width="1294" height="183" key="GridCell.Tab.0.right" timestamp="1599624351420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599043465328" />
-    <state width="1877" height="180" key="GridCell.Tab.1.left" timestamp="1599043465328">
+    <state width="1294" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
+    <state width="1294" height="183" key="GridCell.Tab.1.bottom" timestamp="1599624351363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599043465328" />
-    <state width="1877" height="180" key="GridCell.Tab.1.right" timestamp="1599043465328">
+    <state width="1294" height="183" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
+    <state width="1294" height="183" key="GridCell.Tab.1.center" timestamp="1599624351363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="180" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599043465328" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599041367823">
+    <state width="1294" height="183" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
+    <state width="1294" height="183" key="GridCell.Tab.1.left" timestamp="1599624351363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599041367823" />
+    <state width="1294" height="183" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
+    <state width="1294" height="183" key="GridCell.Tab.1.right" timestamp="1599624351363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="183" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599623202296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599623202296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/example/Selenium/pyautogui_demo.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/example/Selenium/pynput_demo.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_study$MoveHuaKuai.coverage" NAME="MoveHuaKuai Coverage Results" MODIFIED="1599028420895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
+    <SUITE FILE_PATH="coverage/python_study$pyautogui_demo.coverage" NAME="pyautogui_demo Coverage Results" MODIFIED="1599216310002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/python_study$pyautogui_demo__1_.coverage" NAME="pyautogui_demo (1) Coverage Results" MODIFIED="1599621442647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
     <SUITE FILE_PATH="coverage/python_study$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1599043257426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/python_study$str_demo.coverage" NAME="str-demo Coverage Results" MODIFIED="1598501010866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basis" />
-    <SUITE FILE_PATH="coverage/python_study$move_slider__1_.coverage" NAME="move_slider (1) Coverage Results" MODIFIED="1599043435828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
+    <SUITE FILE_PATH="coverage/python_study$pynput_demo.coverage" NAME="pynput_demo Coverage Results" MODIFIED="1599622313565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
+    <SUITE FILE_PATH="coverage/python_study$move_slider__1_.coverage" NAME="move_slider (1) Coverage Results" MODIFIED="1599121302100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
+    <SUITE FILE_PATH="coverage/python_study$str_demo.coverage" NAME="str-demo Coverage Results" MODIFIED="1599624351336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basis" />
   </component>
 </project>

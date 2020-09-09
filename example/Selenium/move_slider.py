@@ -4,7 +4,7 @@
 @author: 转载补充
 @file: str-demo.py
 @time: 2020/8/26 17:02
-@desc: selenium 滑块移动
+@desc: selenium Actions 滑块移动
 '''
 
 
@@ -85,5 +85,24 @@ def move_to_gap(slider, tracks):  # slider是要移动的滑块,tracks是要传�
     ActionChains(driver).release().perform()
 
 
+def get_track(distance, t):  # distance为传入的总距离，a为加速度
+    track = []
+    current = 0
+    mid = distance * t / (t + 1)
+    v = 0
+    while current < distance:
+        if current < mid:
+            a = 3
+        else:
+            a = -1
+        v0 = v
+        v = v0 + a * t
+        move = v0 * t + 1 / 2 * a * t * t
+        current += move
+        track.append(round(move))
+    return track
+
+
+
 if __name__ == '__main__':
-    move_to_gap(slider, get_track(300))
+    move_to_gap(slider, get_track(244))
