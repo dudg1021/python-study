@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b52d900-aaa7-40c3-b990-3a0b31b3f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/Selenium/pyautogui_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/Selenium/pynput_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basis/str-demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basis/str-demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Selenium/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/example/Selenium/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Selenium/move_slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/Selenium/move_slider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +185,7 @@
       <updated>1598431538754</updated>
       <workItem from="1598431545123" duration="3842000" />
       <workItem from="1598951179855" duration="594000" />
-      <workItem from="1599027507546" duration="32067000" />
+      <workItem from="1599027507546" duration="35498000" />
     </task>
     <servers />
   </component>
@@ -209,38 +205,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="534" height="438" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1599464711479" />
-    <state width="1294" height="183" key="GridCell.Tab.0.bottom" timestamp="1599624351421">
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1599633435304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351421" />
-    <state width="1294" height="183" key="GridCell.Tab.0.center" timestamp="1599624351420">
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435304" />
+    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1599633435304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
-    <state width="1294" height="183" key="GridCell.Tab.0.left" timestamp="1599624351420">
+    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435304" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1599633435304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
-    <state width="1294" height="183" key="GridCell.Tab.0.right" timestamp="1599624351420">
+    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435304" />
+    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1599633435304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351420" />
-    <state width="1294" height="183" key="GridCell.Tab.1.bottom" timestamp="1599624351363">
+    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435304" />
+    <state width="1877" height="199" key="GridCell.Tab.1.bottom" timestamp="1599633435238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
-    <state width="1294" height="183" key="GridCell.Tab.1.center" timestamp="1599624351363">
+    <state width="1877" height="199" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435238" />
+    <state width="1877" height="199" key="GridCell.Tab.1.center" timestamp="1599633435238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
-    <state width="1294" height="183" key="GridCell.Tab.1.left" timestamp="1599624351363">
+    <state width="1877" height="199" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435238" />
+    <state width="1877" height="199" key="GridCell.Tab.1.left" timestamp="1599633435238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
-    <state width="1294" height="183" key="GridCell.Tab.1.right" timestamp="1599624351363">
+    <state width="1877" height="199" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435238" />
+    <state width="1877" height="199" key="GridCell.Tab.1.right" timestamp="1599633435238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1294" height="183" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599624351363" />
+    <state width="1877" height="199" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599633435238" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599623202296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -269,6 +265,6 @@
     <SUITE FILE_PATH="coverage/python_study$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1599043257426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
     <SUITE FILE_PATH="coverage/python_study$pynput_demo.coverage" NAME="pynput_demo Coverage Results" MODIFIED="1599622313565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
     <SUITE FILE_PATH="coverage/python_study$move_slider__1_.coverage" NAME="move_slider (1) Coverage Results" MODIFIED="1599121302100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/Selenium" />
-    <SUITE FILE_PATH="coverage/python_study$str_demo.coverage" NAME="str-demo Coverage Results" MODIFIED="1599624351336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basis" />
+    <SUITE FILE_PATH="coverage/python_study$str_demo.coverage" NAME="str-demo Coverage Results" MODIFIED="1599633435212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basis" />
   </component>
 </project>
